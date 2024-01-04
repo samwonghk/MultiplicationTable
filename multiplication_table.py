@@ -85,5 +85,19 @@ for i in range(1, 11):
     print(f"\t    {i % 10}", end=" ")
 print("")
 print("")
+
+for i, c in enumerate("𝒜ℬ𝒞𝒟ℰℱ𝒢ℋℐ𝒥𝒦ℒℳ𝒩𝒪𝒫𝒬ℛ𝒮𝒯𝒰𝒱𝒲𝒳𝒴𝒵"):
+    print(c, end="\t")
+    if i == 12:
+        print("")
+print("")
+print("")
+
+for i, c in enumerate("𝒶𝒷𝒸𝒹ℯ𝒻ℊ𝒽𝒾𝒿𝓀𝓁𝓂𝓃ℴ𝓅𝓆𝓇𝓈𝓉𝓊𝓋𝓌𝓍𝓎𝓏"):
+    print(c, end="\t")
+    if i == 12:
+        print("")
+print("")
+print("")
 print("")
 print("")
