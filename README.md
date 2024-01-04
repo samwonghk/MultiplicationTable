@@ -1,4 +1,4 @@
-<img width="722" alt="image" src="https://github.com/samwonghk/MultiplicationTable/assets/4035368/aa39551f-23c0-4db0-9cec-694c57687684">### Summary ###
+### Summary ###
 This is a Python script that generate the Multiplication Table from 1 to 9 in Traditional Chinese.
 The output simulates the old school presentation on the back of an exercise book.
 
